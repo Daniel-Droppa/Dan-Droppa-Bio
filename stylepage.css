@@ -1,14 +1,17 @@
 body {
     background-color:gray;
+   
 }
 
 .info {
     color: whitesmoke;
     font-family: cursive;
     font-size: larger;
+    
 }
 
 
 img {
-    border-radius: 50%;
+    border-radius: 25%;
+    
 }
